@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "Start of New Project",
+      "body": "Since I've completed my React fundamentals, it's time I made some improvements to my CSS skills and learned to integrated to a database with React.",
+      "author": "dragolord",
+      "id": 2
+    }
+  ]
+}
